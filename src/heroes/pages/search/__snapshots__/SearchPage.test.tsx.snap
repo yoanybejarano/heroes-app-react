@@ -1,0 +1,89 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SearchPage > should call search action with name parameter 1`] = `
+<div>
+  <div>
+    <div
+      data-testid="custom-jumbotron"
+    />
+    <div
+      data-testid="custom-breadcrumb"
+    />
+    <div
+      data-testid="hero-stats"
+    />
+    <div
+      data-testid="search-controls"
+    />
+    <div
+      data-testid="hero-grid"
+    />
+  </div>
+</div>
+`;
+
+exports[`SearchPage > should call search action with strength and name parameters 1`] = `
+<div>
+  <div>
+    <div
+      data-testid="custom-jumbotron"
+    />
+    <div
+      data-testid="custom-breadcrumb"
+    />
+    <div
+      data-testid="hero-stats"
+    />
+    <div
+      data-testid="search-controls"
+    />
+    <div
+      data-testid="hero-grid"
+    />
+  </div>
+</div>
+`;
+
+exports[`SearchPage > should call search action with strength parameter 1`] = `
+<div>
+  <div>
+    <div
+      data-testid="custom-jumbotron"
+    />
+    <div
+      data-testid="custom-breadcrumb"
+    />
+    <div
+      data-testid="hero-stats"
+    />
+    <div
+      data-testid="search-controls"
+    />
+    <div
+      data-testid="hero-grid"
+    />
+  </div>
+</div>
+`;
+
+exports[`SearchPage > should render SearchPage with default values 1`] = `
+<div>
+  <div>
+    <div
+      data-testid="custom-jumbotron"
+    />
+    <div
+      data-testid="custom-breadcrumb"
+    />
+    <div
+      data-testid="hero-stats"
+    />
+    <div
+      data-testid="search-controls"
+    />
+    <div
+      data-testid="hero-grid"
+    />
+  </div>
+</div>
+`;
